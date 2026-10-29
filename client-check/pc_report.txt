@@ -1,0 +1,107 @@
+============================================================ 
+             Diagnostika kompjutera 
+============================================================ 
+ 
+Operacionnaja sistema 
+-------------------- 
+Nazvanie: �������� Windows 10 Pro 
+Versija:   10.0.19045 
+ 
+Processor 
+--------- 
+Intel(R) Xeon(R) CPU E5-2690 0 @ 2.90GHz   
+ 
+Operativnaja pamjat 
+------------------ 
+Vsego pamjati:   31 GB 
+Svobodno pamjati: 25 GB 
+ 
+Disk C 
+------ 
+Obshhij razmer:    GB 
+Svobodno:        GB 
+ 
+Ustanovlennye programmy 
+----------------------- 
+ 
+EPSON L3210 Series Printer Uninstall 
+PostgreSQL 18  
+Age of Empires IV: Anniversary Edition 
+Grand Theft Auto V Legacy 
+Mortal Kombat X 
+Wallpaper Engine 
+Counter-Strike 2 
+Mortal Kombat 11 
+WinRAR 7.23 (64-разрядная) 
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 
+Microsoft Update Health Tools 
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 
+Ocypus Digital, версия 1.0.1.3 
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247 
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005 
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247 
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005 
+NVIDIA Графический драйвер 582.78 
+NVIDIA App 11.0.5.420 
+NVIDIA MessageBus 3 for NvApp 
+NVIDIA Backend 
+NvCpl 
+NVIDIA Системное программное обеспечение PhysX 9.23.1019 
+NVIDIA FrameView SDK 1.5.11504.36206172 
+NVIDIA Аудиодрайвер HD 1.4.5.7 
+NVIDIA Install Application 
+NVIDIA Container 
+NVIDIA AIUser Container 
+NVIDIA LocalSystem Container 
+NVIDIA Session Container 
+NVIDIA User Container 
+NVIDIA NvDLISR 
+NVIDIA Watchdog Plugin for NvContainer 
+NVIDIA Telemetry Client 
+NVIDIA ShadowPlay 11.0.5.400 
+NVIDIA Virtual Audio 4.65.0.3 
+Update for x64-based Windows Systems (KB5001716) 
+EA app 
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 
+UE4 Prerequisites (x64) 
+EpsonNet Print 
+Microsoft GameInput 
+Epson Scan 2 
+Microsoft Edge 
+Среда выполнения Microsoft Edge WebView2 Runtime 
+RAGE Multiplayer 
+Rockstar Games Launcher 
+Rockstar Games SDK 
+Steam 
+Ubisoft Connect 
+Яндекс Браузер с Алисой AI (All Users) 
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 
+EA app 
+UE4 Prerequisites (x64) 
+Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247 
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005 
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.51.36247 
+EPSON Scan PDF Extensions 
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.51.36247 
+Epson Photo+ 
+Epson Event Manager 
+Redragon M808-KS Gaming Mouse 
+Epson Software Updater 
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17 
+Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247 
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 
+EPSON Scan OCR Component 
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 
+Microsoft XNA Framework Redistributable 4.0 Refresh 
+Epson Printer Connection Checker 
+Epson ScanSmart 
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 
+Realtek High Definition Audio Driver 
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005 
+ 
+============================================================ 
+Otchet sohranjon: C:\Users\Dmitriy\Downloads\pc_report.txt 
+============================================================ 
